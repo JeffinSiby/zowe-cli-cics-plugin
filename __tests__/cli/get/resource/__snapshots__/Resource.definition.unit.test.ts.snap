@@ -50,7 +50,7 @@ Object {
       "aliases": Array [
         "rn",
       ],
-      "description": "The CICS region name from which to get the resources",
+      "description": "The CICSplex, CICS group or CICS region name from which to get the resources",
       "name": "region-name",
       "type": "string",
     },
