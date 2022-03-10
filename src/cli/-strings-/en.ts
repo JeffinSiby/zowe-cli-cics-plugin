@@ -337,7 +337,7 @@ export default {
                     RESOURCENAME: "The name of the resource to get.",
                 },
                 OPTIONS: {
-                    REGIONNAME: "The CICS region name from which to get the resources",
+                    REGIONNAME: "The CICSplex, CICS group or CICS region name from which to get the resources",
                     CICSPLEX: "The name of the CICSPlex from which to get the resources",
                     CRITERIA: "The criteria by which to filter the resource",
                     PARAMETER: "The parameter by which to refine the resource"
